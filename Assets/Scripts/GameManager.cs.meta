@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f7f677d18529d5041956d4e6da88af87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winClip: {fileID: 8300000, guid: f96d86c2d498c764994849d579c8d882, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
